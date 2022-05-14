@@ -30,9 +30,4 @@ msng0408@gmail.com
 
 <br>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crush0408&show_icons=true&theme=cobalt)
-
-
-## 🌟 Portfolio 🌟
-
-><a href="https://github.com/FinOscarn/NamSangHyoun/blob/main/BeastFriendsM.pdf%22%3E<img src='./Images/BeastFriendsM.png' width=20% height=20% /></a> &nbsp; <a href="https://github.com/FinOscarn/NamSangHyoun/blob/main/LoLDB.xlsx%22%3E<img src='./Images/LoLDB.png' width=20% height=20% /></a> <a href="https://github.com/FinOscarn/NamSangHyoun/blob/main/DailyGameReport.zip%22%3E<img src='./Images/DailyGameReport.png' width=20% height=20% /></a>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crush0408&show_icons=true&theme=radical)
