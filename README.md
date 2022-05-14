@@ -5,23 +5,21 @@
 ### <div align=center> Have a nice day </div>
 
 
----
-<br>
 
-### 💪My Skill💪
+# 💪My Skills💪 #
 ---
-## 📖Learning  Languages📖  ##
-><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+## 📖Languages📖  ##
+><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
 ><img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/>
-><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/>
-><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
+><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
 
-## 🛠️ Using Tools 🛠️ ##
-><img src="https://img.shields.io/badge/C++-B7472A?style=for-the-badge&logo=C++&logoColor=white"/></a> 
+
+## 🛠️ Tools 🛠️ ##
+><img src="https://img.shields.io/badge/C++-B7472A?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a> 
 ><img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/>
-><img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=Microsoft Word&logoColor=white"/>
-><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white%22/%3E
-><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white%22/%3E
+><img src="https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpMyAdmin&logoColor=white"/>
+><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white%"/>
 
 <br>
 
@@ -30,4 +28,4 @@ msng0408@gmail.com
 
 <br>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crush0408&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crush0408&show_icons=true&theme=radical)
