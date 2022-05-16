@@ -1,11 +1,21 @@
-<p align="center" style="color:gray">
-  <img src='https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub Profile!&fontSize=55' width=100%></img></p>
+# <div align=center> 👋 Hi! I'm SangBaek Lee! </div>
+
+## <div align=center> Programmer </div>
+
+---
+
+🚗 My Career
+| Type | Term | Role | Organization |
+|------|---|---|---|
+| Education | Mar 2020 ~ Present | Student | Gyeonggi Game Meister High School |
+| Graduation Project | Dec 2021 ~ Present | Lead Programmer | Gyeonggi Game Meister High School |
 
 
-### <div align=center> Have a nice day </div>
+### 🔭 I’m currently working on
+- Gyeonggi Game Meister High School ( Mar 2020 ~ Present )
+- Gyeonggi Game Meister High School Graduation Project Team Lead Programmer (Dec 2021 ~ Present)
 
-
-
+- [GGM School Profile](http://ggm.gondr.net/user/profile/89)
 
 
 # 💪My Skills💪 #
@@ -29,8 +39,9 @@
 <br>
 
 ## 📫 Contact 📫 ## 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kbj52264291@gmail.com)](mailto:kbj52264291@gmail.com)
-msng0408@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msng0408@gmail.com)](mailto:msng0408@gmail.com)
+
+msng0408@naver.com
 
 <br>
 
