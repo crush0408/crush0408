@@ -3,6 +3,8 @@
 ## <div align=center> Client Programmer </div>
 
 ---
+ - 🔭 I’m currently working : Gyeonggi Game Meister High School([GGM School Profile](http://ggm.gondr.net/user/profile/89))
+ - 📫 How to reach me: msng0408@naver.com, msng0408@gmail.com
 
 🚗 My Career
 | Type | Term | Role | Organization |
@@ -10,19 +12,10 @@
 | Education | Mar 2020 ~ Present | Student | Gyeonggi Game Meister High School |
 | Graduation Project | Dec 2021 ~ Present | Lead Programmer | Gyeonggi Game Meister High School |
 
-
- - 🔭 I’m currently working : Gyeonggi Game Meister High School([GGM School Profile](http://ggm.gondr.net/user/profile/89))
- - 🌱 I’m currently learning : C++ , C# , Unity
- - 📫 How to reach me: msng0408@naver.com, msng0408@gmail.com
-
-## 💪My Skills💪 ##
-
 ### 📖Languages📖 & 🛠️Tools🛠️ ###
 ><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
 ><img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/>
 ><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
-
-<br>
 
 ><img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white%"/>
 ><img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white%"/>
