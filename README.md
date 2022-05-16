@@ -38,7 +38,7 @@ msng0408@gmail.com
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=crush0408&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crush0408&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 
 <a href="https://opgc.me/#/users/crush0408" target="_blank"><img src="https://api.opgc.me/githubs/users/crush0408/tag/?theme=basic" /></a>
