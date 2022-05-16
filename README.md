@@ -32,9 +32,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kbj52264291@gmail.com)](mailto:kbj52264291@gmail.com)
 msng0408@gmail.com
 
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crush0408&show_icons=true&theme=radical)
 
 <br>
 
