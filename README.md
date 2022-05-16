@@ -30,3 +30,9 @@ msng0408@gmail.com
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crush0408&show_icons=true&theme=radical)
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=crush0408&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
+
+<a href="https://opgc.me/#/users/crush0408" target="_blank"><img src="https://api.opgc.me/githubs/users/crush0408/tag/?theme=basic" /></a>
