@@ -10,7 +10,7 @@
 🚗 My Career
 | Type | Term | Role | Organization |
 |------|---|---|---|
-| Education | Mar 2020 ~ Present | Student | Gyeonggi Game Meister High School |
+| Education | Mar 2020 ~ Mar 2023 | Student | Gyeonggi Game Meister High School |
 | Graduation Project | Dec 2021 ~ Present | Lead Programmer | Gyeonggi Game Meister High School |
 
 ### 📖Languages📖 & 🛠️Tools🛠️ ###
