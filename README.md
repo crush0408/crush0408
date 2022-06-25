@@ -4,7 +4,7 @@
 
 ---
  - 🔭 I’m currently working  : Gyeonggi Game Meister High School([GGM School Profile](http://ggm.gondr.net/user/profile/89))
- - 🌱 I’m currently learning : Win32 Api , DirectX, 
+ - 🌱 I’m currently learning : Win32 Api , DirectX, Python
  - 📫 How to reach me        : msng0408@naver.com
 
 🚗 My Career
