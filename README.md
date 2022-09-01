@@ -11,7 +11,8 @@
 | Type | Term | Role | Organization |
 |------|---|---|---|
 | Education | Mar 2020 ~ Mar 2023 | Student | Gyeonggi Game Meister High School |
-| Graduation Project | Dec 2021 ~ Present | Lead Programmer | Gyeonggi Game Meister High School |
+| Graduation Project | Dec 2021 ~ Jul 2022 | Lead Programmer | Gyeonggi Game Meister High School |
+| Graduation Project_2 | Jul 2022 ~ Present | Lead Programmer | Gyeonggi Game Meister High School |
 | Intern | Oct 2022 ~ Jan 2023 | Client Programmer | Arum Games |
 
 ### 📖Languages📖 & 🛠️Tools🛠️ ###
