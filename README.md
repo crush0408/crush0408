@@ -12,6 +12,7 @@
 |------|---|---|---|
 | Education | Mar 2020 ~ Mar 2023 | Student | Gyeonggi Game Meister High School |
 | Graduation Project | Dec 2021 ~ Present | Lead Programmer | Gyeonggi Game Meister High School |
+| Intern | Oct 2022 ~ Jan 2023 | Client Programmer | Arum Games |
 
 ### 📖Languages📖 & 🛠️Tools🛠️ ###
 ><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
