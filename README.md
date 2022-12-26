@@ -6,7 +6,6 @@
  - 🔭 I’m currently working  : ArumGames
  - 🌱 I’m currently learning : Win32 Api , DirectX, Python
  - 📫 How to reach me        : msng0408@naver.com
- - I was Worked here         : Gyeonggi Game Meister High School([GGM School Profile](http://ggm.gondr.net/user/profile/89))
 
 🚗 My Career
 | Type | Term | Role | Organization |
@@ -15,6 +14,10 @@
 | Graduation Project | Dec 2021 ~ Jul 2022 | Lead Programmer | Gyeonggi Game Meister High School |
 | Graduation Project_2 | Jul 2022 ~ Oct 16 2022 | Lead Programmer | Gyeonggi Game Meister High School |
 | Field trainee | Oct 25 2022 ~ Jan 16 2023 | Client Programmer | Arum Games |
+
+- Gyeonggi Game Meister High School([GGM School Profile](http://ggm.gondr.net/user/profile/89))
+- ArumGames
+
 
 ### 📖Languages📖 & 🛠️Tools🛠️ ###
 ><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
