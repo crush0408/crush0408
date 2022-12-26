@@ -3,9 +3,10 @@
 ## <div align=center> Client Programmer </div>
 
 ---
- - 🔭 I’m currently working  : Gyeonggi Game Meister High School([GGM School Profile](http://ggm.gondr.net/user/profile/89))
+ - 🔭 I’m currently working  : ArumGames
  - 🌱 I’m currently learning : Win32 Api , DirectX, Python
  - 📫 How to reach me        : msng0408@naver.com
+ - I was Worked here         : Gyeonggi Game Meister High School([GGM School Profile](http://ggm.gondr.net/user/profile/89))
 
 🚗 My Career
 | Type | Term | Role | Organization |
