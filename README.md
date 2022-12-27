@@ -4,7 +4,6 @@
 
 ---
  - 🔭 I’m currently working  : ArumGames
- - 🌱 I’m currently learning : Win32 Api , DirectX, Python
  - 📫 How to reach me        : msng0408@naver.com
 
 🚗 My Career
