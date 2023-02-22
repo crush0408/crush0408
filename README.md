@@ -13,6 +13,7 @@
 | Graduation Project | Dec 2021 ~ Jul 2022 | Lead Programmer | Gyeonggi Game Meister High School |
 | Graduation Project_2 | Jul 2022 ~ Oct 16 2022 | Lead Programmer | Gyeonggi Game Meister High School |
 | Field trainee | Oct 25 2022 ~ Jan 16 2023 | Client Programmer | ArumGames |
+| Developer | Feb 01 2023 ~ Current | Client Programmer | ArumGames |
 
 - Gyeonggi Game Meister High School([GGM School Profile](http://ggm.gondr.net/user/profile/89))
 - ArumGames
