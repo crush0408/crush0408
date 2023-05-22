@@ -9,9 +9,9 @@
 🚗 My Career
 | Type | Term | Role | Organization |
 |------|---|---|---|
-| Education | Mar 2020 ~ Jan 17 2023 | Student | Gyeonggi Game Meister High School |
-| Graduation Project | Dec 2021 ~ Jul 2022 | Lead Programmer | Gyeonggi Game Meister High School |
-| Graduation Project_2 | Jul 2022 ~ Oct 16 2022 | Lead Programmer | Gyeonggi Game Meister High School |
+| Education | Mar 2020 ~ Jan 17 2023 | Student | Gyeonggi Game Meister HighSchool |
+| Graduation Project | Dec 2021 ~ Jul 2022 | Lead Programmer | Gyeonggi Game Meister HighSchool |
+| Graduation Project_2 | Jul 2022 ~ Oct 16 2022 | Lead Programmer | Gyeonggi Game Meister HighSchool |
 | Field trainee | Oct 25 2022 ~ Jan 16 2023 | Client Programmer | ArumGames |
 | Career | Feb 01 2023 ~ Current | Client Programmer | ArumGames |
 
